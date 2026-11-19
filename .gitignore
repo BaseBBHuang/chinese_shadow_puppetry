@@ -1,0 +1,19 @@
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.venv/
+venv/
+.codex/
+.agents/
+
+# Dependencies, caches, and machine-specific files
+node_modules/
+__pycache__/
+*.py[cod]
+.cache/
+*.log
+.DS_Store
+Thumbs.db

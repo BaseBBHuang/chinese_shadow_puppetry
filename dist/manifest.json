@@ -1,0 +1,43 @@
+{
+  "package": "zhangzhongyingxi-level01-v0.2.0.zip",
+  "bytes": 152557,
+  "sha256": "5b6901ed9533a3760ba64f8f69ab16021dc81713dcaa1f2669537868dbe2b65f",
+  "files": [
+    {
+      "path": "app.js",
+      "bytes": 13711
+    },
+    {
+      "path": "art/lamp.webp",
+      "bytes": 27898
+    },
+    {
+      "path": "art/moon.webp",
+      "bytes": 9248
+    },
+    {
+      "path": "art/rabbit.webp",
+      "bytes": 79176
+    },
+    {
+      "path": "art/stage.webp",
+      "bytes": 25456
+    },
+    {
+      "path": "art/wood.webp",
+      "bytes": 134
+    },
+    {
+      "path": "index.html",
+      "bytes": 4860
+    },
+    {
+      "path": "logic.js",
+      "bytes": 2495
+    },
+    {
+      "path": "style.css",
+      "bytes": 10064
+    }
+  ]
+}
